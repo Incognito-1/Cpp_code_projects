@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1785014376 source:/home/everythingtechwithitk/Documents/DSA/prime_no/main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
